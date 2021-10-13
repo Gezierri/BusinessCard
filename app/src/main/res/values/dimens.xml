@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">24sp</dimen>
+    <dimen name="margin_title">16dp</dimen>
+    <dimen name="fb">16dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_top_8">8dp</dimen>
+    <dimen name="default_textcard">20sp</dimen>
+    <dimen name="other_text">18sp</dimen>
+</resources>

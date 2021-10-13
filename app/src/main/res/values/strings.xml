@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="businessCard">Cartão de Visitas</string>
+    <string name="tvNome">Gezierri Smaniotto</string>
+    <string name="tvTelefone">99440033</string>
+    <string name="tvEmail">teste@gmail.com</string>
+    <string name="tvNomeEmpresa">Nome da Empresa</string>
+    <string name="label_business_cards">Cartões de visita</string>
+    <string name="label_description_new_card">Novo cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_telefone">Telefone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_empresa">Empresa</string>
+    <string name="label_cor">Cor</string>
+    <string name="label_confirmar">Confirmar</string>
+    <string name="label_show_success">Registro inserido com sucesso.</string>
+    <string name="label_share_to">Compartilhar</string>
+</resources>
